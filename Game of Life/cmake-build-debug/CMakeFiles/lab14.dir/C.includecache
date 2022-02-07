@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/BaHo/CLionProjects/proga/lab14/Header.h
+
+C:/Users/BaHo/CLionProjects/proga/lab14/main.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+stdint.h
+-
+Header.h
+C:/Users/BaHo/CLionProjects/proga/lab14/Header.h
+

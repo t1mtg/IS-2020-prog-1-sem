@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/BaHo/CLionProjects/proga/lab11/Ring.c
+Ring.h
+C:/Users/BaHo/CLionProjects/proga/lab11/Ring.h
+
+C:/Users/BaHo/CLionProjects/proga/lab11/Ring.h
+math.h
+-
+
